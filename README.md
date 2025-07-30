@@ -1,8 +1,8 @@
 # Hi, I'm Darshan Reddy 👋
 
 🎓 I'm a passionate Computer Science student / developer  
-💡 I love building backend systems, exploring data engineering, and working on open source  
-🌱 Currently learning Django, React, Apache Airflow, and System Design  
+💡 I love building full-stack applications, designing scalable systems, and solving real-world problems  
+🌱 Currently sharpening my skills in Django, React, REST APIs, and System Design
 📫 Reach me at: darshanreddyjc@gmail.com  
 🌐 Portfolio: https://darshanredddy.github.io/mysite/
 
