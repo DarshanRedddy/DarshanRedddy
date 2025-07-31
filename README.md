@@ -3,9 +3,10 @@
 🎓 I'm a passionate Computer Science student and full-stack developer | software engineer 
 💡 I love building full-stack applications, designing scalable systems, and solving real-world problems  
 🌱 Currently sharpening my skills in Django, React, REST APIs, and System Design  
-📫 Reach me at: darshanreddyjc@gmail.com  
-🌐 Portfolio: [darshanredddy.github.io/mysite](https://darshanredddy.github.io/mysite/)
-💻 LeetCode: https://leetcode.com/u/Darshanreddy26/
+📫 **Email**: [darshanreddyjc@gmail.com](mailto:darshanreddyjc@gmail.com)  
+🌐 **Portfolio**: [darshanredddy.github.io/mysite](https://darshanredddy.github.io/mysite)  
+💻 **LeetCode**: [Darshanreddy26](https://leetcode.com/u/Darshanreddy26/)
+
 ---
 
 ## 💻 Tech Stack
