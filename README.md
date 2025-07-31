@@ -5,6 +5,7 @@
 🌱 Currently sharpening my skills in Django, React, REST APIs, and System Design  
 📫 Reach me at: darshanreddyjc@gmail.com  
 🌐 Portfolio: [darshanredddy.github.io/mysite](https://darshanredddy.github.io/mysite/)
+💻 LeetCode: https://leetcode.com/u/Darshanreddy26/
 
 ---
 
