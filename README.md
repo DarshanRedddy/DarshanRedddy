@@ -19,9 +19,10 @@
 ---
 
 ## 🎓 Education
-
-- **Bachelor of Technology in Computer Science**  
-  [Your University Name] (Expected Graduation: YYYY)
+- **Masters of Science in Computer Science**  
+  [University Of Dayton] (Expected Graduation: 2025)
+- **Bachelors of Engineering in Computer Science**  
+  [visvesvaraya technological university] (Graduation: 2022)
 
 ---
 
