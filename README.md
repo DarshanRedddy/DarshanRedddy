@@ -20,9 +20,9 @@
 
 ## 🎓 Education
 - **Masters of Science in Computer Science**  
-  [University Of Dayton] (Expected Graduation: 2025)
+  University Of Dayton - Expected Graduation: December 2025
 - **Bachelors of Engineering in Computer Science**  
-  [visvesvaraya technological university] (Graduation: 2022)
+  Visvesvaraya Technological University (MVJ College of Engineering) - Graduation: 2022
 
 ---
 
