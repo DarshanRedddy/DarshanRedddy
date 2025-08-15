@@ -78,8 +78,10 @@
   </a>
 
   <!-- Cloud -->
-  <a href="https://aws.amazon.com/" target="_blank">
-  </a>
+<a href="https://aws.amazon.com/" target="_blank">
+    <img src="https://github.com/user-attachments/assets/a53aae50-994d-4860-ae6b-0355004c5b15" 
+         alt="AWS" width="40" height="40" />
+</a>
 </p>
 
 ---
