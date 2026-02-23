@@ -3,8 +3,6 @@
 🎓 I'm a passionate Computer Science student and full-stack developer | software engineer  
 💡 I love building full-stack applications, designing scalable systems, and solving real-world problems  
 📫 **Email**: [darshanreddyjc@gmail.com](mailto:darshanreddyjc@gmail.com)  
-🌐 **Portfolio**: [darshanredddy.github.io/mysite](https://darshanredddy.github.io/mysite)  
-💻 **LeetCode**: [Darshanreddy26](https://leetcode.com/u/Darshanreddy26/)
 
 ---
 
