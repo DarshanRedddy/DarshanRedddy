@@ -109,7 +109,5 @@
 
 ### 🔗 Let's Connect
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/darshanrjceddy/)
-- 🌐 [Portfolio](https://darshanredddy.github.io/mysite/)
 - ✉️ darshanreddyjc@gmail.com
 _____
