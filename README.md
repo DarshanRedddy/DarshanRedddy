@@ -103,7 +103,5 @@
 
 ---
 
-### 🔗 Let's Connect
 
-- ✉️ darshanreddyjc@gmail.com
 _____
