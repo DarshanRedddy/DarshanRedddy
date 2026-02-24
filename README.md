@@ -1,8 +1,4 @@
-# Hi, I'm Darshan Reddy 👋
-
-🎓 I'm a passionate Computer Science student and full-stack developer | software engineer  
-💡 I love building full-stack applications, designing scalable systems, and solving real-world problems  
-📫 **Email**: [darshanreddyjc@gmail.com](mailto:darshanreddyjc@gmail.com)  
+# Hi, I'm Darshan
 
 ---
 
